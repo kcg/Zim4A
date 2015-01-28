@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-01-19T10:22:52+00:00
+
+====== Welcome to Zim4A ======
+
+===Credit:===
+Karl C. Goedel
+mail@karl-goedel.de
+www.karl-goedel.de
+January 2015
+
+
