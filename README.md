@@ -18,6 +18,9 @@ So far, the following functionalities are implemented:
 The applications was only tested on a Sony Compact Z3 running Android 4.4.4
 and might be buggy.
 
+**Screenshots**
+![Screenshots](http://karl-goedel.de/modx/assets/img/zim4a.png)
+
 **Installation:**
 After installing Dropsync and choosing a folder for your Notebook,
 copy all Zim4A files into the same folder in which the Notebook folder
